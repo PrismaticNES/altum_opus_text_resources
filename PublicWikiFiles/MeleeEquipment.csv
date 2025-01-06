@@ -1,60 +1,60 @@
-Name,Type,Cost (Cryte),Cost (Morals),Damage,Weight,Properties,Special,@EOL
-Greatsword,Martial Melee Weapon,,,2d6 Slashing,6 lbs,"Heavy, Two Handed",,@EOL
-Longsword,Martial Melee Weapon,,,1d8 Slashing,3 lbs,Versatile (1d10),,@EOL
-Halberd,Martial Melee Weapon,,,1d10 Slashing,6 lbs,"Heavy, Reach, Two Handed",,@EOL
-Dagger,Simple Melee Weapon,,,1d4 Piercing,1 lb,"Finesse, Light, Thrown (range 20/60)",,@EOL
-Spear,Simple Melee Weapon,,,1d6 Piercing,3 lbs,"Thrown (range 20/60), Versatile (1d8)",,@EOL
-Sickle,Simple Melee Weapon,,,1d4 Slashing,2 lbs,Light,,@EOL
-Greataxe,Martial Melee Weapon,,,1d12 Slashing,7 lbs,"Heavy, Two-Handed",,@EOL
-Battleaxe,Martial Melee Weapon,,,1d8 Slashing,4 lbs,Versatile (1d10),,@EOL
-Warhammer,Martial Melee Weapon,,,1d8 Bludgeoning,2 lbs,Versatile (1d10),,@EOL
-Katana,Martial Melee Weapon,,,1d8 Slashing,3 lbs,Versatile (1d10),,@EOL
-Rapier,Martial Melee Weapon,,,1d8 Piercing,2 lbs,Finesse,,@EOL
-Shortsword,Martial Melee Weapon,,,1d6 Slashing,2 lbs,"Finesse, Light",,@EOL
-Claymore,Martial Melee Weapon,,,2d4 Slashing,6 lbs,"Heavy, Two Handed",,@EOL
-Axe,Simple Melee Weapon,,,1d6 Slashing,2 lbs,"Light, Thrown (20/60)",,@EOL
-Hatchet,Simple Melee Weapon,,,1d6 Slashing,2 lbs,"Light, Thrown (20/60)",,@EOL
-Shovel,Improvised Melee Weapon,,,1d6 Bludgeoning,5 lbs,"Reach, Two Handed",,@EOL
-Pitchfork,Martial Melee Weapon,,,1d6 Piercing,5 lbs,"Versatile (1d8), Thrown (range 20/60)",,@EOL
-Battering Ram,Martial Melee Weapon,,,2d6 Bludgeoning,50 lbs,"Heavy, Reach, Two Handed",,@EOL
-Quater Staff,Simple Melee Weapon,,,1d6 Bludgeoning,4 lbs,Versatile (1d8),,@EOL
-Bo Staff,Martial Melee Weapon,,,2d4 Bludgeoning,6 lbs,"Heavy, Two Handed, Reach",,@EOL
-Knuckles,Simple Melee Weapon,,,1d4 Bludgeoning,1 lb,"Light, Hidden",,@EOL
-Gauntlets,Simple Melee Weapon,,,1d6 Bludgeoning,2 lbs,Glove,,@EOL
-Cestus,Simple Melee Weapon,,,1d4 Bludgeoning,0.5 lbs,"Glove, Hidden, Light",,@EOL
-Spiked Gauntlets,Simple Melee Weapon,,,1d6 Piercing,2 lbs,Glove,,@EOL
-Harpoon,Martial Melee Weapon,,,1d8 Piercing,10 lbs,"Heavy, Thrown (range 15/30), Special*","*When you deal damage to a creature with a harpoon, the target must succeed on a Constitution saving throw against a DC of 10 or be harpooned. While harpooned, the target's movement speed is reduced to half and it is unable to take the Dash action. If the harpoon is connected to a trailing rope. If you control the trailing rope, the target can't move away from you further than 30 feet, unless it succeeds on a contested Strength (Athletics) check. A harpooned creature trying to cast a spell, must succeed on a Concentration check against a DC 10 or it loses the spell. A creature can remove the harpoon from its body as an action. The creature must have at least one free hand to do so. Removing the harpoon causes damage equal to the damage die of the harpoon (without modifiers).",@EOL
-Anchor,Martial Melee Weapon,,,2d6 Bludgeoning,60 lbs,"Heavy, Special*, Two Handed",*An anchor can serve as a makeshift shield due to its shear size and weight. The wielder gains a +1 bonus to their AC while wielding this weapon.,@EOL
-Stake,Simple Melee Weapon,,,1d4 Piercing,1 lb,Light,,@EOL
+Name,Type,Cost (Cryte),Cost (Morals),Damage,Weight,Properties,Special,Custom Accent Color,@EOL
+Greatsword,Martial Melee Weapon,,,2d6 Slashing,6 lbs,"Heavy, Two Handed",,#ffaa00,@EOL
+Longsword,Martial Melee Weapon,,,1d8 Slashing,3 lbs,Versatile (1d10),,,@EOL
+Halberd,Martial Melee Weapon,,,1d10 Slashing,6 lbs,"Heavy, Reach, Two Handed",,,@EOL
+Dagger,Simple Melee Weapon,,,1d4 Piercing,1 lb,"Finesse, Light, Thrown (range 20/60)",,,@EOL
+Spear,Simple Melee Weapon,,,1d6 Piercing,3 lbs,"Thrown (range 20/60), Versatile (1d8)",,,@EOL
+Sickle,Simple Melee Weapon,,,1d4 Slashing,2 lbs,Light,,,@EOL
+Greataxe,Martial Melee Weapon,,,1d12 Slashing,7 lbs,"Heavy, Two-Handed",,,@EOL
+Battleaxe,Martial Melee Weapon,,,1d8 Slashing,4 lbs,Versatile (1d10),,,@EOL
+Warhammer,Martial Melee Weapon,,,1d8 Bludgeoning,2 lbs,Versatile (1d10),,,@EOL
+Katana,Martial Melee Weapon,,,1d8 Slashing,3 lbs,Versatile (1d10),,,@EOL
+Rapier,Martial Melee Weapon,,,1d8 Piercing,2 lbs,Finesse,,,@EOL
+Shortsword,Martial Melee Weapon,,,1d6 Slashing,2 lbs,"Finesse, Light",,,@EOL
+Claymore,Martial Melee Weapon,,,2d4 Slashing,6 lbs,"Heavy, Two Handed",,,@EOL
+Axe,Simple Melee Weapon,,,1d6 Slashing,2 lbs,"Light, Thrown (20/60)",,,@EOL
+Hatchet,Simple Melee Weapon,,,1d6 Slashing,2 lbs,"Light, Thrown (20/60)",,,@EOL
+Shovel,Improvised Melee Weapon,,,1d6 Bludgeoning,5 lbs,"Reach, Two Handed",,,@EOL
+Pitchfork,Martial Melee Weapon,,,1d6 Piercing,5 lbs,"Versatile (1d8), Thrown (range 20/60)",,,@EOL
+Battering Ram,Martial Melee Weapon,,,2d6 Bludgeoning,50 lbs,"Heavy, Reach, Two Handed",,,@EOL
+Quater Staff,Simple Melee Weapon,,,1d6 Bludgeoning,4 lbs,Versatile (1d8),,,@EOL
+Bo Staff,Martial Melee Weapon,,,2d4 Bludgeoning,6 lbs,"Heavy, Two Handed, Reach",,,@EOL
+Knuckles,Simple Melee Weapon,,,1d4 Bludgeoning,1 lb,"Light, Hidden",,,@EOL
+Gauntlets,Simple Melee Weapon,,,1d6 Bludgeoning,2 lbs,Glove,,,@EOL
+Cestus,Simple Melee Weapon,,,1d4 Bludgeoning,0.5 lbs,"Glove, Hidden, Light",,,@EOL
+Spiked Gauntlets,Simple Melee Weapon,,,1d6 Piercing,2 lbs,Glove,,,@EOL
+Harpoon,Martial Melee Weapon,,,1d8 Piercing,10 lbs,"Heavy, Thrown (range 15/30), Special*","*When you deal damage to a creature with a harpoon, the target must succeed on a Constitution saving throw against a DC of 10 or be harpooned. While harpooned, the target's movement speed is reduced to half and it is unable to take the Dash action. If the harpoon is connected to a trailing rope. If you control the trailing rope, the target can't move away from you further than 30 feet, unless it succeeds on a contested Strength (Athletics) check. A harpooned creature trying to cast a spell, must succeed on a Concentration check against a DC 10 or it loses the spell. A creature can remove the harpoon from its body as an action. The creature must have at least one free hand to do so. Removing the harpoon causes damage equal to the damage die of the harpoon (without modifiers).",,@EOL
+Anchor,Martial Melee Weapon,,,2d6 Bludgeoning,60 lbs,"Heavy, Special*, Two Handed",*An anchor can serve as a makeshift shield due to its shear size and weight. The wielder gains a +1 bonus to their AC while wielding this weapon.,,@EOL
+Stake,Simple Melee Weapon,,,1d4 Piercing,1 lb,Light,,,@EOL
 Swordbreaker,Martial Melee Weapon,,,1d4 Piercing,10 lbs,"Light, Special*","*When a creature attacks you with a bladed weapon, you can use your reaction to attempt to catch that weapon in your sword breaker. Make a Dexterity (Sleight of Hand) check against the targets attack roll. If the result is greater than the attack roll, you grapple the attacker by catching its weapon.
 
-The attacker may escape the grapple in the normal way, or by dropping the caught weapon. Similarly, the grapple ends if you drop the sword breaker. You can not attack with the sword breaker when you have grappled a creature this way.",@EOL
-Trident,Martial Melee Weapon,,,1d6 Piercing,4 lbs,"Thrown(20/60), Versatile(1d8)",,@EOL
-Cleaver,Martial Melee Weapon,,,1d10 Slashing,11 lbs,"Heavy, Two Handed",,@EOL
-Cutlass,Martial Melee Weapon,,,2d4 Slashing,3 lbs,Finesse,,@EOL
-Javelin,Simple Melee Weapon,,,1d6 Piercing,2 lbs,Thrown (range 30/120),,@EOL
-Scythe,Simple Melee Weapon,,,2d4 Slashing,4 lbs,"Heavy, Two Handed",,@EOL
-Club,Simple Melee Weapon,,,1d4 Bludgeoning,2 lbs,Light,,@EOL
-Bat,Simple Melee Weapon,,,1d4 Bludgeoning,2 lbs,Light,,@EOL
-Crowbar,Improvised Melee Weapon,,,1d4 Bludgeoning,5 lbs,Versatile (1d8),,@EOL
-Wrench,Improvised Melee Weapon,,,1d4 Bludgeoning,5 lbs,"Throw (range 20/40), Light",,@EOL
-Screwdriver,Improvised Melee Weapon,,,1d4 Piercing,1 lb,Light,,@EOL
-Construction Hammer,Improvised Melee Weapon,,,1d4 Bludgeoning,3 lbs,"Throw (range 20/40), Light",,@EOL
-Pipe,Improvised Melee Weapon,,,1d6 Bludgeoning,5 lbs,"Heavy, Two Handed, Versatile (1d8)",,@EOL
-Discus,Simple Melee Weapon,,,1d4 Bludgeoning,2 lbs,"Finesse, Light, Thrown (range 80/240)",,@EOL
-Yklwa,Simple Melee Weapon,,,1d8 Piercing,2 lbs,Thrown (range 10/30),,@EOL
-Pike,Martial Melee Weapon,,,1d10 Piercing,10 lbs,"Heavy, Reach, Two Handed",,@EOL
-Whip,Martial Melee Weapon,,,1d4 Slashing,3 lbs,"Finesse, Reach",,@EOL
-Flail,Martial Melee Weapon,,,1d8 Bludgeoning,2 lbs,Finesse,,@EOL
-Morningstar,Martial Melee Weapon,,,1d8 Bludgeoning,4 lbs,Finesse,,@EOL
-Lance,Martial Melee Weapon,,,1d12 Piercing,6 lbs,"Reach, Special*","*You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.",@EOL
-Scimitar,Martial Melee Weapon,,,1d6 Slashing,3 lbs,"Finesse, Light",,@EOL
-Glaive,Martial Melee Weapon,,,1d10 Slashing,6 lbs,"Heavy, Reach, Two Handed",,@EOL
-Armblade,Martial Melee Weapon,,,1d8 Slashing,15 lbs,"Glove, Finesse, Special*",*This weapon gains the Hidden item property if you wear long-sleeves over it.,@EOL
-Retractable Shoe Knife,Simple Melee Weapon,,,1d4 Slashing,1 lb,"Boots, Finesse",,@EOL
-Pocketknife,Simple Melee Weapon,,,1d4 Slashing,0.5 lbs,Light,,@EOL
-Sledgehammer,Martial Melee Weapon,,,1d10 Bludgeoning,15 lbs,"Heavy, Two Handed",,@EOL
-Maul,Martial Melee Weapon,,,2d6 Bludgeoning,10 lbs,"Heavy, Two Handed",,@EOL
-Double-Bladed Scimitar,Martial Melee Weapon,,,2d4 Slashing,6 lbs,"Special*, Two Handed","*If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 Slashing damage on a hit, instead of 2d4.",@EOL
-Nunchaku,Simple Melee Weapon,,,1d4 Bludgeoning,4 lbs,"Light, Finese",,@EOL
-Kama,Simple Melee Weapon,,,1d4 Slashing,2 lbs,Light,,@EOL
+The attacker may escape the grapple in the normal way, or by dropping the caught weapon. Similarly, the grapple ends if you drop the sword breaker. You can not attack with the sword breaker when you have grappled a creature this way.",,@EOL
+Trident,Martial Melee Weapon,,,1d6 Piercing,4 lbs,"Thrown(20/60), Versatile(1d8)",,,@EOL
+Cleaver,Martial Melee Weapon,,,1d10 Slashing,11 lbs,"Heavy, Two Handed",,,@EOL
+Cutlass,Martial Melee Weapon,,,2d4 Slashing,3 lbs,Finesse,,,@EOL
+Javelin,Simple Melee Weapon,,,1d6 Piercing,2 lbs,Thrown (range 30/120),,,@EOL
+Scythe,Simple Melee Weapon,,,2d4 Slashing,4 lbs,"Heavy, Two Handed",,,@EOL
+Club,Simple Melee Weapon,,,1d4 Bludgeoning,2 lbs,Light,,,@EOL
+Bat,Simple Melee Weapon,,,1d4 Bludgeoning,2 lbs,Light,,,@EOL
+Crowbar,Improvised Melee Weapon,,,1d4 Bludgeoning,5 lbs,Versatile (1d8),,,@EOL
+Wrench,Improvised Melee Weapon,,,1d4 Bludgeoning,5 lbs,"Throw (range 20/40), Light",,,@EOL
+Screwdriver,Improvised Melee Weapon,,,1d4 Piercing,1 lb,Light,,,@EOL
+Construction Hammer,Improvised Melee Weapon,,,1d4 Bludgeoning,3 lbs,"Throw (range 20/40), Light",,,@EOL
+Pipe,Improvised Melee Weapon,,,1d6 Bludgeoning,5 lbs,"Heavy, Two Handed, Versatile (1d8)",,,@EOL
+Discus,Simple Melee Weapon,,,1d4 Bludgeoning,2 lbs,"Finesse, Light, Thrown (range 80/240)",,,@EOL
+Yklwa,Simple Melee Weapon,,,1d8 Piercing,2 lbs,Thrown (range 10/30),,,@EOL
+Pike,Martial Melee Weapon,,,1d10 Piercing,10 lbs,"Heavy, Reach, Two Handed",,,@EOL
+Whip,Martial Melee Weapon,,,1d4 Slashing,3 lbs,"Finesse, Reach",,,@EOL
+Flail,Martial Melee Weapon,,,1d8 Bludgeoning,2 lbs,Finesse,,,@EOL
+Morningstar,Martial Melee Weapon,,,1d8 Bludgeoning,4 lbs,Finesse,,,@EOL
+Lance,Martial Melee Weapon,,,1d12 Piercing,6 lbs,"Reach, Special*","*You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.",,@EOL
+Scimitar,Martial Melee Weapon,,,1d6 Slashing,3 lbs,"Finesse, Light",,,@EOL
+Glaive,Martial Melee Weapon,,,1d10 Slashing,6 lbs,"Heavy, Reach, Two Handed",,,@EOL
+Armblade,Martial Melee Weapon,,,1d8 Slashing,15 lbs,"Glove, Finesse, Special*",*This weapon gains the Hidden item property if you wear long-sleeves over it.,,@EOL
+Retractable Shoe Knife,Simple Melee Weapon,,,1d4 Slashing,1 lb,"Boots, Finesse",,,@EOL
+Pocketknife,Simple Melee Weapon,,,1d4 Slashing,0.5 lbs,Light,,,@EOL
+Sledgehammer,Martial Melee Weapon,,,1d10 Bludgeoning,15 lbs,"Heavy, Two Handed",,,@EOL
+Maul,Martial Melee Weapon,,,2d6 Bludgeoning,10 lbs,"Heavy, Two Handed",,,@EOL
+Double-Bladed Scimitar,Martial Melee Weapon,,,2d4 Slashing,6 lbs,"Special*, Two Handed","*If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 Slashing damage on a hit, instead of 2d4.",,@EOL
+Nunchaku,Simple Melee Weapon,,,1d4 Bludgeoning,4 lbs,"Light, Finese",,,@EOL
+Kama,Simple Melee Weapon,,,1d4 Slashing,2 lbs,Light,,,@EOL
