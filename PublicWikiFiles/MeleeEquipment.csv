@@ -1,5 +1,5 @@
 Name,Type,Cost (Cryte),Cost (Morals),Damage,Weight,Properties,Special,Custom Accent Color,@EOL
-Greatsword,Martial Melee Weapon,,,2d6 Slashing,6 lbs,"Heavy, Two Handed",,#ffaa00,@EOL
+Greatsword,Martial Melee Weapon,,,2d6 Slashing,6 lbs,"Heavy, Two Handed",,#66120c,@EOL
 Longsword,Martial Melee Weapon,,,1d8 Slashing,3 lbs,Versatile (1d10),,,@EOL
 Halberd,Martial Melee Weapon,,,1d10 Slashing,6 lbs,"Heavy, Reach, Two Handed",,,@EOL
 Dagger,Simple Melee Weapon,,,1d4 Piercing,1 lb,"Finesse, Light, Thrown (range 20/60)",,,@EOL
